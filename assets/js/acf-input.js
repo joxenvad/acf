@@ -1532,7 +1532,7 @@ var acf;
 			// already exists?
 			if( $popup.exists() ) {
 			
-				return update_popup(args);
+				return this.update_popup(args);
 				
 			}
 			
